@@ -6,15 +6,15 @@ This lab focused on learning how to creating servers utilizing mysql, Django, an
 
 ### Installing all necessary packages
 
-![PackageSetup](resources/PackageSetup.png)
+![PackageSetup](resources/PackageSetup.PNG)
 
 ### Setting up MariaDB
 
-![MariaDBSetup](resources/MariaDBSetup.png)
+![MariaDBSetup](resources/MariaDBSetup.PNG)
 
 ### MariaDB montior
 
-![MariaDBMonitor](resources/MariaDBMonitor.png)
+![MariaDBMonitor](resources/MariaDBMonitor.PNG)
 
 ### Inputting temperature data for "stevens" project
 
@@ -26,7 +26,7 @@ This lab focused on learning how to creating servers utilizing mysql, Django, an
 
 ### Viewing weather station on Windows 10 desktop
 
-![WindowsSite](resources/WindowsSite.png)
+![WindowsSite](resources/WindowsSite.PNG)
 
 ## mycpu project
 
