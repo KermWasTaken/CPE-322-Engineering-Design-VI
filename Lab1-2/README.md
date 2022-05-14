@@ -10,18 +10,18 @@ This lab focused on learning linux-based terminal commands. Below many commonly 
 
 ![env](env.png)
 
-##File and Directory Manipulation Commands
+## File and Directory Manipulation Commands
 
 ![FileAndDirManipulation](FileAndDirManipulation.png)
 
-##GNU nano text editor
+## GNU nano text editor
 
 ![nano](nano.png)
 
-##uname Commands
+## uname Commands
 
 ![unameCommands](unameCommands.png)
 
-##Network Commands
+## Network Commands
 
 ![networkCommands](networkCommands.png)
