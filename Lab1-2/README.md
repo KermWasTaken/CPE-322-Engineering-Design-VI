@@ -1,4 +1,4 @@
-# Labs 1 and 2
+# Labs 1 and 2 - Command Line
 
 This lab focused on learning linux-based terminal commands. Below many commonly used commands can be found being demostrated.
 
