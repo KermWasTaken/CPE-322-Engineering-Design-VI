@@ -4,5 +4,5 @@ This lab focused on learning how to run python programs as well as how to instal
 
 ## Executing the programs
 
-![ProgramsPart1](ProgramsPart1)
-![ProgramsPart2](ProgramsPart2)
+![ProgramsPart1](ProgramsPart1.png)
+![ProgramsPart2](ProgramsPart2.png)
