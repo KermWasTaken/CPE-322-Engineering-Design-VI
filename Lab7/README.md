@@ -1,6 +1,6 @@
 # Lab 7 - ThingSpeak and Google Sheets
 
-This lab focused on ustilizing ThingSpeak and Google APIs to write system data to both sites
+This lab focused on utilizing ThingSpeak and Google APIs to write system data to both sites
 
 ## ThingSpeak data getting written from terminal
 
