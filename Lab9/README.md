@@ -2,6 +2,6 @@
 
 This lab focused on translating a YANG module into a YIN Module
 
-## PNG of module
+## Picture of the translated module
 
 ![intrusiondetection](resources/intrusiondetection.png)
