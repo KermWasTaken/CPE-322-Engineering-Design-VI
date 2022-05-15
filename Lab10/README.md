@@ -4,7 +4,7 @@ This lab focused on demonstrating blockchain possibilites in python as well as P
 
 ## Comparing the hash value function ran two times
 
-![hashValue](resources/hashValue.png)
+![hashValue](resources/hashValue.PNG)
 
 ## 20 snakecoin blocks added to blockchain
 
